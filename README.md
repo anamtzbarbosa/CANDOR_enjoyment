@@ -23,7 +23,7 @@ H2: Higher MeanPause → lower enjoyment.
 
 H3: Higher SpeechBalance (more imbalance) → lower enjoyment (i.e., more balanced = better).
 
-H4: Objective timing metrics significantly predict perceived conversational skill.
+H4: Objective timing metrics significantly predict perceived conversational skill.(H4 temporarily named “notebooks” in the files)
 
 Approach Summary
 Regression models test H1–H3 by examining the relationship between timing metrics and enjoyment.
